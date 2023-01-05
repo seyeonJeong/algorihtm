@@ -27,5 +27,5 @@ print(number)
 #     for i in range(1,len(number)):
 #         for j in range(i,0,-1): # 이게 있는지 몰라서 코드가 굉장히 길어졌다. 
 #             if number[j-1] > number[j]:
-#                 number[j-1], number[j] = number[j], number[j-1] # swap 또한 이렇게 진행하면 된다. 기억
+#                 number[j-1], number[j] = number[j], number[j-1] # swap 또한 이렇게 진행하면 된다. 기억하자
 
