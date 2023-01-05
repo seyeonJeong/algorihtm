@@ -22,7 +22,7 @@ insertion_sort(number)
 
 print(number)
 
-
+# 다른 사람 코드인데 코드 줄 차이가 
 # def insertion_sort(number):
 #     for i in range(1,len(number)):
 #         for j in range(i,0,-1):
