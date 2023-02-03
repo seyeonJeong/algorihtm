@@ -36,4 +36,3 @@ for i in range(n):
         else:
             print(queue[rear-1])
 
-# 시간초과 에반데 진짜로
